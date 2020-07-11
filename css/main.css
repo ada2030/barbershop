@@ -144,7 +144,7 @@ h6 {
   .menu-right .nav-item .dropdown-menu a {
     display: block;
     margin-bottom: 10px;
-    text-transform: capitalize;
+    text-transform: capitalize;GO
     color: #fff;
     background-color: #000;
      }
@@ -384,10 +384,10 @@ width: 200px
 
 }
 .lis{
-  margin-top: -100px;
+  margin-top: -50px;
   height: 250px;
   width: 300px;
-  margin-left: -170px;
+  margin-left: -120px;
  
 
 
