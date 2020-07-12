@@ -374,7 +374,7 @@ h6 {
   margin-left: 550px;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 750px) {
 .bgk h2 {
   font-size:25px;
 }
@@ -383,26 +383,26 @@ h6 {
 }
 .price {
   margin-top: 200px;
-  margin-left: 70px;
+  margin-left: 60px;
   font-family:Corinthia;
   color: #fff;
 }
 .golova {
   margin-top: 5px;
-  margin-left: 90px;
+  margin-left: 80px;
   font-family:Corinthia;
   color: #fff;
 }
 
 .boroda{
-  margin-left: 110px;
+  margin-left: 100px;
   margin-top: 5px;
   font-family:Corinthia;
   color: #fff;
 }
 
 .liso{
-  margin-left: 130px;
+  margin-left: 120px;
   font-family:Corinthia;
   color: #fff;
 }}
