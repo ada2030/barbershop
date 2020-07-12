@@ -206,7 +206,7 @@ h6 {
       top: 12px; } }
 
 .site-hero {
-  background-size: cover;
+  background-size: 100%;
   background-position: center center;
   min-height: 750px;
   height: 100vh;
@@ -254,6 +254,8 @@ h6 {
 .site-section {
   padding: 17em 0;
   color: #fff;
+  -webkit-background-size: 100%;
+  background-size: 100%;
 }
 
 
@@ -335,7 +337,11 @@ h6 {
 @font-face {
     font-family:Corinthia;
     src:url(Corinthia.ttf);
-  }  
+  } 
+.bgk{
+-webkit-background-size: 100%;
+background-size: 100%;
+} 
 .bgk h2 {
   font-size:35px;
 }
@@ -376,6 +382,10 @@ h6 {
 }
 
 @media (max-width: 750px) {
+.bgk{
+-webkit-background-size: 50%;
+background-size: 200%;
+}
 .bgk h2 {
   font-size:25px;
 }
