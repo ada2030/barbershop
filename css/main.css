@@ -300,6 +300,7 @@ h6 {
 
 .quick-info .media .media-body p {
   font-size: 15px;
+  color: #fff;
 }
 
 .quick-info .media .media-body p:last-child {
@@ -383,26 +384,26 @@ h6 {
 }
 .price {
   margin-top: 200px;
-  margin-left: 60px;
+  margin-left: 50px;
   font-family:Corinthia;
   color: #fff;
 }
 .golova {
   margin-top: 5px;
-  margin-left: 80px;
+  margin-left: 70px;
   font-family:Corinthia;
   color: #fff;
 }
 
 .boroda{
-  margin-left: 100px;
+  margin-left: 90px;
   margin-top: 5px;
   font-family:Corinthia;
   color: #fff;
 }
 
 .liso{
-  margin-left: 120px;
+  margin-left: 100px;
   font-family:Corinthia;
   color: #fff;
 }}
