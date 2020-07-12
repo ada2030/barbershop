@@ -1,3 +1,4 @@
+
 body {
   font-family: "Roboto", arial;
   font-weight: 400;
@@ -144,7 +145,7 @@ h6 {
   .menu-right .nav-item .dropdown-menu a {
     display: block;
     margin-bottom: 10px;
-    text-transform: capitalize;GO
+    text-transform: capitalize;
     color: #fff;
     background-color: #000;
      }
@@ -255,6 +256,7 @@ h6 {
   color: #fff;
 }
 
+
 .quick-info {
   position: relative;
   margin-top: -100px;
@@ -329,69 +331,82 @@ h6 {
  .img-md5-fluid {
     max-width: 100%;
   }
-.price{
-  margin-top: 2%;
-  width: 70%;
-  height:220px;
-  display: inline-block;
-  margin-left:500px; 
-  } 
-
+@font-face {
+    font-family:Corinthia;
+    src:url(Corinthia.ttf);
+  }  
+.bgk h2 {
+  font-size:35px;
 }
-.golova{
-  margin-top: 2%;
+.bgk h1 {
+  font-size:100px;
+}
+.price {
+  font-family:Corinthia;
   display: inline-block;
-  width: 35%;
-  height:380px;
+  color: #fff;
+  margin-top: 80px;
+  margin-left: 500px;
+}
+  
+
+
+.golova {
+  margin-top: 20px;
+  font-family:Corinthia;
+  display: inline-block;
+  color: #fff;
+  margin-left: 200px;
 }
 
 .boroda{
-  margin-top: 1%;
+  margin-top: 20px;
+  font-family:Corinthia;
   display: inline-block;
-  width: 35%;
-  height: 380px;
+  color: #fff;
+  margin-left: 350px;
 }
 
 .liso{
+  font-family:Corinthia;
   display: inline-block;
-  width: 70%;
-  height: 380px;
-  margin-left: 320px;
+  color: #fff;
+  margin-left: 550px;
 }
 
 @media (max-width: 991.98px) {
-.bkg{
-  max-width: 100%;
+.bgk h2 {
+  font-size:25px;
 }
-.pra {
-height: 80px;
-margin-left: -450px;
-margin-top: 200px;
-width: 200px
-}  
-.golov{
-  margin-top: 150px;
-  height: 250px;
-  width: 300px;
+.bgk h1 {
+  font-size:50px;
+}
+.price {
+  margin-top: 200px;
   margin-left: 70px;
-
+  font-family:Corinthia;
+  color: #fff;
 }
-.borod{
-  margin-top: 50px;
-    height: 250px;
-  width: 300px;
-  margin-left: 20px;
-
+.golova {
+  margin-top: 5px;
+  margin-left: 90px;
+  font-family:Corinthia;
+  color: #fff;
 }
-.lis{
-  margin-top: -50px;
-  height: 250px;
-  width: 300px;
-  margin-left: -220px;
- 
 
-
+.boroda{
+  margin-left: 110px;
+  margin-top: 5px;
+  font-family:Corinthia;
+  color: #fff;
 }
+
+.liso{
+  margin-left: 130px;
+  font-family:Corinthia;
+  color: #fff;
+}}
+
 }
 .feature-destination, .slider-wrap {
   position: relative;
