@@ -338,11 +338,7 @@ h6 {
     font-family:Corinthia;
     src:url(Corinthia.ttf);
   } 
-@media (min-width: 750px)
-.bgk{
--webkit-background-size: 100%;
-background-size: 100%;
-}} 
+
 .bgk h2 {
   font-size:35px;
 }
@@ -414,6 +410,9 @@ background-size: 100%;
   font-family:Corinthia;
   color: #fff;
 }}
+.servis{
+  background-color:#aeaeae;
+
 
 }
 .feature-destination, .slider-wrap {
