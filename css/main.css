@@ -338,7 +338,8 @@ h6 {
     font-family:Corinthia;
     src:url(Corinthia.ttf);
   } 
-
+.bgk{
+  background-size:100%;
 .bgk h2 {
   font-size:35px;
 }
